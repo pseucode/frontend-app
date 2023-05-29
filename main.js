@@ -1,5 +1,5 @@
 const instance = axios.create({
-  baseURL: "http://localhost:8080/api",
+  baseURL: "http://18.143.201.223:8080/api",
   headers: {
     "Content-Type": "application/json",
   },
